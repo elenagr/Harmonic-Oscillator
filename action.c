@@ -1,3 +1,4 @@
+// Como mola git!! :)
 /*We are going to build up the program to compute the action for the harmonic oscillator potential*/
 
 #include <stdio.h>
